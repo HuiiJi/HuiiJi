@@ -10,7 +10,7 @@
 <a href="https://github.com/HuiiJi"> 
     <img src="https://komarev.com/ghpvc/?username=xiaohu2015&color=blue" height="25px" alt="github follow" /> 
 </a>
-<a href="https://space.bilibili.com/442133307">
+<a href="https://b23.tv/A6QrrEt">
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
 </p> 
 
