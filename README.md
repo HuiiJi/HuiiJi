@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ISP, AI-ISP, low-level CV-task
-- 🌱 I’m currently learning LLM, Stable-diffusion, etc
-
 <a href="https://github.com/triple-Mu">
-	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=HuiiJi;AI+Engineer;Major+in+ISP+,+AI-ISP+,+low+level+CVs+and+AIGC;" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=HuiiJi;AI+Engineer;Major+in+ISP+,+AI-ISP+,+low+level+CVs+and+AIGC;Fun at LOL;" alt="Typing SVG" />
 </a>
 
 <p align="left">
