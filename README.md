@@ -2,7 +2,7 @@
 <a href="https://github.com/HuiiJi">
 	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=200&multiline=true&width=500&height=100&lines=HuiiJi;AI+Engineer;Major+in+ISP+,+AI-ISP+,+low+level+CVs+and+AIGC;Fun at LOL;" alt="Typing SVG" />
 </a>
-<img src="https://pic.imgdb.cn/item/6485de641ddac507cc302967.jpg" height="50px" alt="bilibili" />
+<img src="https://pic.imgdb.cn/item/6485de641ddac507cc302967.jpg" alt="bilibili" />
 <p align="left">
 
 <p> 
@@ -15,9 +15,9 @@
 
 <img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=HuiiJi&show_icons=true&hide_border=true&count_private=true" />
 
-<!-- <p align="left"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HuiiJi/count.svg" />
-</p> -->
+</p>
 
 
