@@ -2,11 +2,12 @@
 <a href="https://github.com/HuiiJi">
 	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=200&multiline=true&width=500&height=100&lines=HuiiJi;AI+Engineer;Major+in+ISP+,+AI-ISP+,+low+level+CVs+and+AIGC;Fun at LOL;" alt="Typing SVG" />
 </a>
-<!-- 
-<img src="https://pic.imgdb.cn/item/6485de641ddac507cc302967.jpg" height="50px" alt="bilibili" /> -->
-<a href="https://github.com/HuiiJi"> 
-	<img src="https://pic.imgdb.cn/item/6485de641ddac507cc302967.jpg">
+
+<p> 
+<a href="https://github.com/HuiiJi"> 	
+	<img src="https://pic.imgdb.cn/item/6485de641ddac507cc302967.jpg" height="50px" alt="bilibili" />
 </a>
+</p> 
 <p align="left">
 
 <p> 
