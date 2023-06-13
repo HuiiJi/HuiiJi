@@ -5,9 +5,6 @@
 
 
 <p align="left">
-<a href="https://github.com/HuiiJi">
-	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Hu Ye;AI+Engineer;Major+in+Computer+Vision+and+AIGC;" alt="Typing SVG" />
-</a>
 
 <p> 
 <a href="https://github.com/HuiiJi"> 
