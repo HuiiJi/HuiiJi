@@ -13,6 +13,8 @@
 </a>
 <a href="https://b23.tv/A6QrrEt">
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
+<a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi">
+	<img src=""></a>
 </p> 
 
 <img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=HuiiJi&show_icons=true&hide_border=true&count_private=true" />
