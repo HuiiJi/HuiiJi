@@ -13,9 +13,9 @@
 </a>
 	
 <a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi">
-	<img src="https://pic.imgdb.cn/item/65560636c458853aeff1c187.png" height="10" alt="ll></a>
+	<img src="https://pic.imgdb.cn/item/65560636c458853aeff1c187.png" height="50px" alt="ll></a>
 <a href="https://b23.tv/A6QrrEt">
-    <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="10px" alt="bilibili" /></a>
+    <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="50px" alt="bilibili" /></a>
 
 </p> 
 
