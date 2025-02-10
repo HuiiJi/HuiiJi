@@ -23,7 +23,9 @@
     <img src="https://pic.imgdb.cn/item/65560636c458853aeff1c187.png" height="30px" alt="zhihu" />
 </a>
 
-[![zhihu](https://pic.imgdb.cn/item/65560636c458853aeff1c187.png)](https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi)
+<a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi" style="display:inline-block; width:30px; height:30px; background-image:url('https://pic.imgdb.cn/item/65560636c458853aeff1c187.png'); background-size:contain;">
+</a>
+
 </p> 
 
 <img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=HuiiJi&show_icons=true&hide_border=true&count_private=true" />
