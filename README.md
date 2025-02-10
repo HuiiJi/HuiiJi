@@ -8,6 +8,11 @@
 <p align="left">
 
 <p> 
+
+<a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi">
+    <img src="https://pic.imgdb.cn/item/65560636c458853aeff1c187.png" height="30px" alt="zhihu" />
+</a>
+
 <a href="https://github.com/HuiiJi"> 
     <img src="https://komarev.com/ghpvc/?username=HuiiJi&color=blue" height="25px" alt="github follow" /> 
 </a>
@@ -16,9 +21,6 @@
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" />
 </a>
 
-<a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi">
-    <img src="https://pic.imgdb.cn/item/65560636c458853aeff1c187.png" height="30px" alt="zhihu" />
-</a>
 
 
 </p> 
