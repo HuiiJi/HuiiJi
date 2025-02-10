@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi">
-    <img src="EA45F461-A28B-4A70-BF0E-C41EC2B51154.JPG" height="30px" alt="zhihu" />
+    <img src="EA45F461-A28B-4A70-BF0E-C41EC2B51154.JPG" height="20px" alt="zhihu" />
 </a>
 
 <a href="https://www.zhihu.com/people/zhi-bu-ke-wei-he-bi-wei-zhi" style="display:inline-block; width:30px; height:30px; background-image:url('https://pic.imgdb.cn/item/65560636c458853aeff1c187.png'); background-size:contain;">
